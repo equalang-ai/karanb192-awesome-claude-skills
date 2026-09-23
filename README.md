@@ -151,6 +151,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Automating document generation, processing feedback, extracting structured data
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### equalang
+**Source:** [equalang/equalang-skill](https://github.com/equalang/equalang-skill)
+**Description:** Translate whole files with layout preservation where supported, transcribe recordings, and translate text.
+**Use Case:** Translate documents, slides, spreadsheets and e-books from an agent workflow; requires Python 3, an Equalang API key and credits. Files are uploaded to Equalang.
+**Stars:** ⭐⭐⭐
+
 #### xlsx
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Excel spreadsheet operations including formulas, charts, pivot tables, and data validation.
