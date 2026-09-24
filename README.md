@@ -1,4 +1,4 @@
-Equalang Translation# awesome-claude-skills
+# awesome-claude-skills
 
 > The definitive collection of Agent Skills for Claude - supercharge your AI workflows across Claude Code, Claude.ai, and API
 
@@ -151,7 +151,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Automating document generation, processing feedback, extracting structured data
 **Stars:** ⭐⭐⭐⭐⭐
 
-#### equalang
+#### Equalang Translation
 **Source:** [equalang/equalang-skill](https://github.com/equalang/equalang-skill)
 **Description:** Translate whole files with layout preservation where supported, transcribe recordings, and translate text.
 **Use Case:** Translate documents, slides, spreadsheets and e-books from an agent workflow; requires Python 3, an Equalang API key and credits. Files are uploaded to Equalang.
