@@ -1,4 +1,4 @@
-# awesome-claude-skills
+Equalang Translation# awesome-claude-skills
 
 > The definitive collection of Agent Skills for Claude - supercharge your AI workflows across Claude Code, Claude.ai, and API
 
